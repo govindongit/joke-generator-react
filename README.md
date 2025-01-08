@@ -1,3 +1,12 @@
+#Random Joke Generator in React
+- Props use
+- Joke API URL 
+- useState
+- click event
+  
+![image](https://github.com/user-attachments/assets/347a391e-0c1f-43fc-82de-cf1d903655d2)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
